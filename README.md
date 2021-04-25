@@ -24,6 +24,7 @@
 ### Tech Stack 📚:
 - Android Studio
 - Figma
+- Firebase
 
 ### FLOW CHART 📊:
 
