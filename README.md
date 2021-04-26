@@ -18,7 +18,7 @@
 
 ### Novelty📕:
 <p>
-  We have come across many apps for animal care which only provides function to save data for pets, For example - When the pet had last bath or grooming or vaccination etc. So this project will allow user to take photos of pet and the app will provide the important information related to proper caring, For example - Vaccination or Water or Food or Walk scheduled, training to be provided, adoption centers and many more. This app will also help the user to know the if their pets are suffering from any disease or not and also provide them with proper medications.
+  We have come across many apps for animal care which only provides function to save data for pets, For example - When the pet had last bath or grooming or vaccination etc. So this project will allow user to take photos of pet and the app will provide the important information related to proper caring, For example - Vaccination or Water or Food or Walk scheduled, training to be provided, adoption centers and many more. We are also providing another feature with whose help the user can scan an animal and then the app will provide them with the name of the animal along with various details like what type of food they eat, how to take care of them,etc.This app will also help the user to know if their pets are suffering from any disease or not and also provide them with proper medications.
 </p>
 
 ### Tech Stack 📚:
