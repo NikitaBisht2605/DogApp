@@ -25,10 +25,15 @@
 - Android Studio
 - Figma
 - Firebase
+- Decision tree
+- CNN for pet classification
 
-### FLOW CHART 📊:
+### Additional Features:
+<p>
+We are also planning to add a feature with whose help the user can find their lost pets through voice recognition. The user has to record the voice of their pet while registering in the app for the first time. When someone finds a lost pet they just need to input the voice of the pet again and our app will search in its database by matching the voice of the found pet with the already available voices. If it matches then the address and contact of the pet owner will be provided.
+</p>
 
 ### Conclusion 🔍:
 <p>
-  This is an app which anyone and everyone who has a pet can use. It basically makes life simpler for pet owners in multiple ways. You can take care of your pet in the best way possible and even train them . Also now things being online we can't take pets out for walks often so we even suggest what will keep them fit and so many more features. It will be an one stop solution to most of the issues pet owners face. We are also planning to add a feature with whose help the user can find their lost pets through voice recognition. The user has to record the voice of their pet while registering in the app for the first time. When someone finds a lost pet they just need to input the voice of the pet again and our app will search in its database by matching the voice of the found pet with the already available voices. If it matches then the address and contact of the pet owner will be provided.
+  This is an app which anyone and everyone who has a pet can use. It basically makes life simpler for pet owners in multiple ways. You can take care of your pet in the best way possible and even train them . Also now things being online we can't take pets out for walks often so we even suggest what will keep them fit and so many more features. It will be an one stop solution to most of the issues pet owners face. 
 </p>
