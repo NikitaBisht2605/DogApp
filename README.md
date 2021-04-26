@@ -28,7 +28,7 @@
 - Decision tree
 - CNN for pet classification
 
-### Additional Features:
+### Additional Features🆕:
 <p>
 We are also planning to add a feature with whose help the user can find their lost pets through voice recognition. The user has to record the voice of their pet while registering in the app for the first time. When someone finds a lost pet they just need to input the voice of the pet again and our app will search in its database by matching the voice of the found pet with the already available voices. If it matches then the address and contact of the pet owner will be provided.
 </p>
